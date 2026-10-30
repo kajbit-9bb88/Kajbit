@@ -1,0 +1,17 @@
+*{box-sizing:border-box}body{margin:0;font-family:system-ui,"Noto Sans Bengali",sans-serif;background:#eef4fb;color:#1a2233}
+header{background:#fff;padding:10px 14px;position:sticky;top:0;box-shadow:0 1px 6px #0001;z-index:5}
+.logo{font-size:24px;font-weight:800;color:#0284c7}.logo i{color:#e11d48;font-style:normal}
+nav{display:flex;gap:8px;overflow-x:auto;margin-top:8px}nav a,nav button{white-space:nowrap;padding:8px 14px;border-radius:20px;background:#e0f2fe;color:#0369a1;text-decoration:none;border:0;font-weight:600;font-size:14px}
+.bal{font-size:13px;color:#059669;font-weight:700;margin-top:6px}
+main{padding:14px;max-width:760px;margin:auto}h2{margin:8px 0}
+.card,.row{background:#fff;border-radius:14px;padding:14px;margin:10px 0;box-shadow:0 1px 4px #0001}
+.row{display:flex;justify-content:space-between;align-items:center;gap:8px;text-decoration:none;color:inherit;border-left:4px solid #10b981}
+.r{display:flex;gap:10px;align-items:center}.g{color:#059669;font-weight:700}
+.btn,.btn2,.card button{background:#0284c7;color:#fff;border:0;border-radius:10px;padding:10px 16px;font-weight:700;cursor:pointer;margin:4px 4px 0 0}
+.btn2{background:#fff;color:#6d28d9;border:1px solid #6d28d9;width:100%}.tabs button.on{background:#0284c7;color:#fff}.tabs button{border:0;padding:8px 12px;border-radius:8px;margin-right:4px}
+input,select,textarea{width:100%;padding:11px;border:1px solid #cbd5e1;border-radius:10px;margin:4px 0 10px;font:inherit}
+label{font-weight:700;font-size:13px;text-transform:uppercase;color:#475569}
+.pin,.st{font-size:11px;padding:2px 8px;border-radius:6px;background:#d1fae5;color:#047857;margin-left:6px;font-weight:700}
+.st.pending{background:#fef3c7;color:#b45309}.st.rejected,.st.closed{background:#fee2e2;color:#b91c1c}
+.box{background:#f1f5f9;border-radius:10px;padding:12px;margin:8px 0;word-break:break-word}.pq{background:#f8fafc;padding:8px;border-left:4px solid #0284c7;margin:8px 0}
+.th,.pf{max-width:100%;border-radius:10px;margin:6px 0}.login{text-align:center;margin-top:80px;padding:20px}
